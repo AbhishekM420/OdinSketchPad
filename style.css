@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.pad{
+    margin-top: 20%;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    display:flex;
+    flex-wrap: wrap;
+}
+button{
+    margin: 40px;
+}
